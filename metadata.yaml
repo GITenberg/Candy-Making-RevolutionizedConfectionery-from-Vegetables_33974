@@ -1,0 +1,26 @@
+_repo: Candy-Making-RevolutionizedConfectionery-from-Vegetables_33974
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hall, Mary Elizabeth
+    gutenberg_agent_id: '36631'
+    url: http://www.gutenberg.org/2009/agents/36631
+description: ''
+gutenberg_bookshelf: Cookery
+gutenberg_issued: '2010-09-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33974'
+  lccn: '13001284'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Confectionery'
+title: 'Candy-Making Revolutionized: Confectionery from Vegetables'
+url: http://www.gutenberg.org/ebooks/33974
